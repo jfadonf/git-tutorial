@@ -4,3 +4,4 @@ add 3rd line
 feature A
 fix B
 add feature-B
+feature-C
